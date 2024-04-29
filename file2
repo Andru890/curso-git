@@ -1,1 +1,9 @@
 HOLAAAAA
+cambio de prueba y ver diferencia de archivos 
+// git diff = para ver las diferencias entre los cambios
+// (- es igual archivos modificados )
+// (+ las nuevas cosas agregadas)
+
+/* git diff --staged = para subirlo al repo local 
+y asi despues subirlo a github
+*/
